@@ -1,6 +1,6 @@
-# ♟️SITE DO IFCC &middot; ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) [![WPP](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/BrNrsPKdTcN0q8K2gJK8ku)
+# ♟️SITE DO IFCC &middot; ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![pawn](Media/logo.png) 
 <hr/>
 
 ## 🚀 Propósito: 
-Este site foi desenvolvido como forma de apresentar o **Clube de Xadrez do Instituto Federal de São Paulo**, criado pelo estudante Fernando Barreto da Silva, como um projeto para propor a todos os alunos de Institutos Federais um único centro de interação sobre a prática deste esporte. 
+Este site foi desenvolvido como forma de oferecer ao **Instituto Federal de São Paulo** uma plataforma para praticar, estudar, acompanhar e discutir o jogo de xadrez, como forma de apoio aos projetos de eventos e propagação do jogo pelo **Clube de Xadrez** do campus de Jacareí, visando a expansão do alcance das atividades propostas e o oferecimento de um ambiente útil e acolhedor para todos os estudantes amantes do jogo de xadrez.
